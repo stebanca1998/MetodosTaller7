@@ -1,4 +1,8 @@
 # MetodosTaller7
+Steban Cadena Giraldo- Cód.1670129 
+Julián Campiño- Cód.1226070
+Nestor Cardona-Cód.1529933 
+
 En este código se está realizandop una implementación del método de la potencia en un caso espécifico con la matriz
 A={{6,5,-5}
    {2,6,-2}
